@@ -1,0 +1,45 @@
+#container{
+    border: solid 2px black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+.Input{
+    border: solid 2px;
+    width: 50%;
+    padding: 14px 12px;
+}
+#container2{
+    border: solid 2px black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+.input2{
+    border: solid 2px;
+    width: 50%;
+    padding: 14px 12px;
+}
+button{
+    padding: 14px 12px;
+    background-color: peru;
+    color: white;
+    width: 50%;
+}
+#container3{
+    border: solid 2px black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+th,td{
+    border: solid 1px;
+}
+.image{
+    height: 15%;
+    width: 10%;
+}
+.image2{
+    height: 15%;
+    width: 10%;
+}
